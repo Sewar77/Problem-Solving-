@@ -34,7 +34,7 @@ console.log(countCharacters("hello"));
 
 let obj = {};
 countCharacters = function(word){
-    return word.reduce((a,b) => )
+    return //word.reduce((a,b) => )
 }
 
 console.log(countCharacters("hello")); 
